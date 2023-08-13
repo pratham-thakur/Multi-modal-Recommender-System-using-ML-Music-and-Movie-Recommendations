@@ -24,17 +24,23 @@
 
 3-Navigate to the project directory and ***run the .ipynb file***.
 
-4-Make sure that the ***similarity.pkl*** file is created in the same folder if not please move it to the same folder.
+4-Make sure that the ***similarity_movies.pkl*** file is created in the same folder if not please move it to the same folder.
 
 5-Run the Streamlit app using the command ***streamlit run app.py***.
 
 6-Access the user interface through your web browser.
 
-7-Select the name of the song.
+7-Select the name of the movie.
 
 8-Receive personalized recommendations based on your input and preferences.
 ## Dataset Link:
-Please click [here](https://www.kaggle.com/datasets/noorsaeed/songs-recommendation-dataset) to go to the dataset site.
+Please click here for [movies](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv) and [credit](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv) datasets.
 
 ## Front-End output:
-![image](https://github.com/pratham-thakur/Multi-modal-Recommender-System-using-ML-Music-and-Movie-Recommendations/assets/118924205/a7f55e78-3890-4c97-aac7-c7eb101f93d3)
+![image](https://github.com/pratham-thakur/Multi-modal-Recommender-System-using-ML-Music-and-Movie-Recommendations/assets/118924205/5bb4b965-5d3a-4128-bc82-407dcc54a2d4)
+
+![image](https://github.com/pratham-thakur/Multi-modal-Recommender-System-using-ML-Music-and-Movie-Recommendations/assets/118924205/b5f1a15f-73ac-44b2-b343-8b5263cc9827)
+
+![image](https://github.com/pratham-thakur/Multi-modal-Recommender-System-using-ML-Music-and-Movie-Recommendations/assets/118924205/20b43973-2930-496a-b28f-ee7e513f7996)
+
+
