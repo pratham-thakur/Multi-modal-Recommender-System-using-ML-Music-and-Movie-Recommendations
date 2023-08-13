@@ -41,3 +41,6 @@ Please click [here](https://www.kaggle.com/datasets/noorsaeed/songs-recommendati
 ## Front-End output:
 ![image](https://github.com/pratham-thakur/Multi-modal-Recommender-System-using-ML-Music-and-Movie-Recommendations/assets/118924205/a7f55e78-3890-4c97-aac7-c7eb101f93d3)
 
+![image](https://github.com/pratham-thakur/Multi-modal-Recommender-System-using-ML-Music-and-Movie-Recommendations/assets/118924205/f6c4a261-69b7-4f38-97d1-284d35d434c3)
+
+![image](https://github.com/pratham-thakur/Multi-modal-Recommender-System-using-ML-Music-and-Movie-Recommendations/assets/118924205/ae3122a7-9fb6-49ee-8382-b354372dc469)
