@@ -25,7 +25,7 @@
 
 3-Navigate to the project directory and **run the .ipynb file**.
 
-4-Make sure that the similarity.pk file is created in the same folder if not please move it to the same folder.
+4-Make sure that the **similarity.pkl** file is created in the same folder if not please move it to the same folder.
 
 5-Run the Streamlit app using the command **streamlit run app.py**.
 
