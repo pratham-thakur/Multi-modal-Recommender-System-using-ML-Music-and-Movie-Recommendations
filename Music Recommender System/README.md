@@ -1,4 +1,4 @@
- # Music Recommendation System USing Machine Learning (ML):
+ # Music Recommendation System Using Machine Learning (ML):
 
 ## Key Features:
 ***1-Music Recommender System:*** Utilizing cutting-edge vectorization and cosine similarity techniques, the music recommendation engine analyses users' listening habits, preferences, and historical data to generate highly relevant music suggestions. Users can discover new artists, albums, and tracks that align with their musical taste.
@@ -33,7 +33,7 @@
 
 7-Select the name of the song.
 
-8-Receive personalized recommendations based on your input and preferences..
+8-Receive personalized recommendations based on your input and preferences.
 
 ## Dataset Link:
 Please click [here](https://www.kaggle.com/datasets/noorsaeed/songs-recommendation-dataset) to go to the dataset site.
